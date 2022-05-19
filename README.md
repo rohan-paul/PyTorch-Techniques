@@ -1,4 +1,4 @@
-## This Repo has all the OpenCV and Image Processing related codes for my [YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/featured)
+## This Repo has all the regular PyTorch Techniques related codes for my [YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/featured)
 
 [yt_cover]: /assets/Youtube_Cover.jpg
 
